@@ -1,0 +1,140 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+
+.left_content {
+	float: left;
+	background-color: azure;
+	width: 300px;
+}
+
+.left_title_text {
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.right_content {
+	float: left;
+	background-color: antiquewhite;
+}
+
+.head_title_text {
+	color: red;
+	text-align: center;
+}
+
+.header {
+	background-color: #F2F2F2;
+	border-top: 2px solid #dd5862;
+	border-bottom: 1px solid #e9e8e8;
+	margin-bottom: 30px;
+	/* min-width: 15px; */
+}
+
+.text {
+	height: 370px;
+	border: 1px solid #FF0000;
+	margin: 0 auto;
+	width: 100%;
+}
+
+.header_ct {
+	height: 50px;
+	width: 694px;
+	margin: 0 auto;
+	line-height: 50px;
+}
+
+.header_text_img {
+	width: 900px;
+	height: 100%;
+}
+.header_text_img_content{
+	height: 300px;
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+}
+
+.header_ct_logo {
+	height: 50px;
+	float: left;
+}
+
+.header_text_img_daohang {
+	height: 70px;
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+	border: 1px solid royalblue;
+}
+
+.header_text_img_daohang_img {
+	width: 60px;
+	height: 60px;
+}
+.content_title_content{
+	float: right;
+	margin-top: 60px;
+}
+.content_title{
+	border: 1px solid cornsilk;
+	margin: 6px auto;
+	width: 100%;
+	height: 80px;
+}
+.content_titleimg{
+	border: 1px solid cornsilk;
+	margin: 6px auto;
+	width: 100%;
+	height: 400px;
+}
+.content_titleimg_left{
+	height: 100%;
+	width: 70%;
+	float: left;
+	
+}
+.content_titleimg_right{
+	height: 100%;
+	width: 30%;
+	float: left;
+	padding: 0px,0px,0px,0px;
+}
+.top{
+	height: 50%;
+	width: 100%;
+}
+.bottom{
+	height: 50%;
+	width: 100%;
+}
+.content_titleimg_right.bottom{
+	height: 50%;
+	width: 70%;
+}
+h3{
+	vertical-align: middle;
+	height: 100%;
+}
+.content_title_title{
+	height: 100%;
+	vertical-align: middle;
+	line-height: 80px;
+	float: left;
+}
+/*.header_ct_text1 ,.header_ct_text2,.header_ct_text3,.header_ct_text4{
+	margin: auto auto;
+}*/
+
+.header_ct_text1 {
+	display: block;
+	margin-left: 25px;
+	font-size: 16px;
+	height: 50px;
+	display: inline-block;
+	text-align: center;
+	/*float: left;*/
+}
