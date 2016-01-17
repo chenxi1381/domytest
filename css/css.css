@@ -2,7 +2,13 @@
 	padding: 0px;
 	margin: 0px;
 }
-
+a:hover {
+    color: #dd5862;
+}
+a{
+    text-decoration: none;
+    color: #2d2d2d;
+}
 .left_content {
 	float: left;
 	background-color: azure;
@@ -105,6 +111,7 @@
 .bottom{
 	height: 50%;
 	width: 100%;
+	margin-top: -2px;
 }
 .content_titleimg_right.bottom{
 	height: 50%;
