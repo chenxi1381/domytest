@@ -38,10 +38,16 @@ a{
 	/* min-width: 15px; */
 }
 
-.text {
+.text_layout {
 	height: 370px;
 	margin: 0 auto;
 	width: 100%;
+}
+
+.text {
+	height: 370px;
+	margin: 0 auto;
+	width: 700px;
 }
 
 .header_ct {
@@ -52,7 +58,7 @@ a{
 }
 
 .header_text_img {
-	width: 900px;
+	width: 100%;
 	height: 100%;
 }
 .header_text_img_content{
